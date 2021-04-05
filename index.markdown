@@ -1,4 +1,4 @@
 ---
-title: Frequently Asked Questions
 layout: home
+title: Frequently Asked Questions
 ---

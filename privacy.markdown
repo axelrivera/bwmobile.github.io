@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mobile_page
 title: Privacy Policy
 permalink: /privacy/
 ---
